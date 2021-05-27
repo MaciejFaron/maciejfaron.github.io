@@ -67,3 +67,5 @@ Nothing here right now, but that will change soon ;).
         </section>
     </form>
 </div>
+<link rel="stylesheet" type="text/css" href="calc.css" media="screen"/>
+<script src="calc.js"></script>
