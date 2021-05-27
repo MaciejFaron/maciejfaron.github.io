@@ -68,4 +68,5 @@ Nothing here right now, but that will change soon ;).
     </form>
 </div>
 <link rel="stylesheet" type="text/css" href="calc.css" media="screen"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 <script src="calc.js"></script>
